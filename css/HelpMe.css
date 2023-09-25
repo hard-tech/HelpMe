@@ -1,0 +1,23 @@
+.box{
+    margin: 5vw 15vw;
+    padding: 15px;
+    border-radius: 15px;
+    background: linear-gradient(#b2ffa8dc,#70ff70cb,#00a500);
+
+    border: #fff solid 1px;
+    box-shadow: 0px 5px 15px #fff;
+}
+
+input{
+    margin: 15px;
+}
+
+.btn-HelpMe{
+    border: solid #fff 3px;
+    color: #fff;
+    background-color: #23A767;
+    border-radius: 75px;
+    font-weight: 500;
+
+    margin: 50px auto;
+}
