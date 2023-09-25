@@ -1,0 +1,32 @@
+/* ### Body Css ### */
+
+body{
+    font-family: 'McLaren', cursive;
+    background-image: url(../image/backgroud/BackGroud.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter: blur(5px);
+}
+
+a{
+    text-decoration: none;
+}
+
+/* ### Nav Css ### */
+
+.btn-nav{
+    border: solid #00A82F 2px;
+    border-radius: 8px;
+    padding: 10px 15px;
+
+    background-color: #00A82F;
+}
+
+.hr-nav{
+    border: solid #b6ff8c 5px;
+}
+
+.text-nav-btn{
+    color: #ffffff;
+}

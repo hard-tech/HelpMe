@@ -1,0 +1,32 @@
+.box{
+    background: linear-gradient(white,#ffffffe1,#ffffffe7,#ffffffa8,#ffffff63, transparent);
+    border-radius: 20px 20px 0 0;    
+    color: #252525;
+
+    margin: 5vw 10vw;
+    padding: 15px;
+    
+    /* display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between; */
+}   
+
+.border-img{
+    border-radius: 15px;
+    border: solid 5px #21be4e;
+    margin: 50px;
+}
+
+.text-box{
+    padding: 15px 20px;
+    max-width: 600px;
+}
+
+.pic{
+    border-radius: 10px;
+}
+
+img{
+    max-width: 40vw;
+}
