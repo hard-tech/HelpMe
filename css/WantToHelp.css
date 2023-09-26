@@ -2,10 +2,6 @@
     margin-left: -30px;
 }
 
-.box-main{
-
-}
-
 .form-itineraire{
     background: linear-gradient(#99f565, #c6edaf);
     margin-top: 50px;
@@ -16,6 +12,8 @@
 
     border-radius: 15px;
     border: #68c334 solid 3px;
+
+    width: 500px;
 }
 
 img.Map{
@@ -23,6 +21,13 @@ img.Map{
     margin-left: auto;
     margin-right: auto;
 
-    border: solid #252525;
-    border-radius: 10px;
+    border: solid  #ffffff;
+    border-radius: 20px;
+
+    box-shadow: #9e9e9e 0px 0px 10px;
+}
+
+.img-card{
+    width: 400px;
+    margin: 50px;
 }

@@ -70,3 +70,11 @@ nav{
     color: white;
     font-weight: 100;  */
 }
+
+.card-perso{
+    display: flex;
+    flex-direction: column;
+
+    background-color: #ffffff96;
+    border-radius: 15px;
+}
