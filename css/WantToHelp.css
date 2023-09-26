@@ -1,0 +1,28 @@
+.icon-loupe{
+    margin-left: -30px;
+}
+
+.box-main{
+
+}
+
+.form-itineraire{
+    background: linear-gradient(#99f565, #c6edaf);
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+
+    padding: 15px 40px;
+
+    border-radius: 15px;
+    border: #68c334 solid 3px;
+}
+
+img.Map{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: solid #252525;
+    border-radius: 10px;
+}
